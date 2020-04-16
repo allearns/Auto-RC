@@ -1,0 +1,6 @@
+classes= 3
+train  = new_train(reduced).txt
+valid  = new_train(reduced).txt
+names = ./traffic.names
+backup = backup/
+
